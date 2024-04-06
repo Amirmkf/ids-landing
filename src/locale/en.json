@@ -1,0 +1,48 @@
+{
+  "navbar": {
+    "home": "Home",
+    "professionalServices": "Professional Services",
+    "trafficAnalysis": "2G, 3G, 4G and 5G Traffic Analysis",
+    "penetrationTest": "Penetration Test of Telecom core"
+  },
+  "aboutUs": {
+    "title": "About Us",
+    "text": "Fidar company is one of the very few companies in Asia considering security of telecom core network. The main telecom-related activities of this company are producing different security softwares and providing professional services for telecom operators.",
+    "highQuality": "High quality",
+    "highQualityText": "Provide high-quality products and services",
+    "support": "24/7 Support",
+    "supportText": "Providing consulting and support services in the fields of network, computer systems safety, communication systems",
+    "longTerm": "Long term",
+    "longTermText": "Build long-term relationships based on trust and integrity",
+    "jointActivities": "Joint activities",
+    "jointActivitiesText": "Carrying out joint activities in the field of technology"
+  },
+  "products": {
+    "title": "Products",
+    "FTSignalling": "FT Signalling firewall",
+    "FTScanner": "FT Scanner",
+    "FTIDS": "FT IDS",
+    "analysis": "Traffic Analysis",
+    "penetration": "Penetration Test"
+  },
+  "services": {
+    "title": "Services"
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "text": "Thank you for your choice. Please provide the following information about your job\n requirements to help us serve you better. This information allows us to transfer your\n request to the appropriate person. You should receive a response within 48 hours.",
+    "address": "Address",
+    "firstAddress": "Unit 212, Science and Technology Park, Daneshgah Blvd., Shahrood, Iran",
+    "secondAddress": "3rd Floor, 4th Alley, No. 7, Sadeghi St., Azadi St., Tehran, Iran",
+    "phone": "Phone",
+    "phoneText": "(+98) 23 32300366 - (+98) 21 66093658",
+    "email": "Email",
+    "emailText": "info@fdni.ir",
+    "send": "send"
+  },
+  "supportedProtocols" : "Supported Protocols",
+  "features": "Features",
+  "footer": {
+    "text": "© All material and intellectual rights of this site belong to Fidar Dade Negar Company."
+  }
+}
